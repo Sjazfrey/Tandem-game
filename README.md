@@ -1,7 +1,7 @@
-In this app I create a game that have multiple choice questions with radio buttons with the answers and questions in data.json file. You can change the answer, but once you click on the submit button you will not be able to change your answer and you will be told if the answer is right or wrong by a red color-wrong or green color-right. Click the next button to go on to the next question. 
+In this app I created a game that has multiple choice questions with radio buttons with the answers and questions in data.json file. You can change the answer, but once you click on the submit button you will not be able to change your answer and you will be told if the answer is right or wrong by a red color-wrong or green color-right. Click the next button to go on to the next question. 
 In this game I used jquery, javascript and react. 
 Run npm install and then npm start to get the app up and running. Go to localhost:3000 to play the game in a web browser.
-On this question  "question": "In a website address bar, what does WWW stand for?",there are only 2 incorrect answers and 1 correct answer.
+On question #9  "question": "In a website address bar, what does WWW stand for?",there are only 2 incorrect answers and 1 correct answer.
 To make the app better I would like to have had the questions shuffle and show up in random order.
 
 

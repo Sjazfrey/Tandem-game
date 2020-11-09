@@ -3,7 +3,7 @@ In this game I used jquery, javascript and react.
 Run npm install and then npm start to get the app up and running. Go to localhost:3000 to play the game in a web browser.
 On question #9  "question": "In a website address bar, what does WWW stand for?",there are only 2 incorrect answers and 1 correct answer.
 To make the app better I would like to have had the questions shuffle and show up in random order.
-
+*Modified the scripts to be able to deploy to Heroku. In order to run locally use command npm run dev*
 
 # Getting Started with Create React App
 
